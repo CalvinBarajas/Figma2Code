@@ -1,4 +1,4 @@
-This project showcases my ability to convert a Figma drawing into code. The tech/stack used in this project is:
+This project showcases my ability to convert a Figma design into code. The tech/stack used in this project is:
 
 * HTML
 * CSS
