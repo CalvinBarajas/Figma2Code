@@ -1,0 +1,94 @@
+* {
+  box-sizing: border-box;
+}
+
+body {  
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+/* Jessica Strosin */
+.introducing {
+  margin-left: 25%;
+  @media (min-width: 768px) {
+    margin-left: 0%;
+  }
+}
+.full-name {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #3730a3;
+  span {    
+    margin: 0 15px;
+    width: 60%;
+  }
+}
+.full-name:before,
+.full-name:after {
+  background: #3730a3;
+  height: 2px;
+  flex: 1;
+  content: "";
+  opacity: 50%;
+}
+.full-name.left:after {
+  background: none;
+}
+.full-name.right:before {
+  background: none;
+}
+
+/* About */
+.about-header {
+  font-size: 2.5rem;  
+  font-weight: bolder;
+  text-align: center;
+  @media (min-width: 768px) {
+    font-size: 3rem;
+    text-align: left;
+  }
+}
+.about-description {
+  color: #6b7280;
+}
+
+/* Buttons */
+.btn-section {
+  margin-bottom: 2px;
+  width: 100%;
+  @media (min-width: 768px) {
+    width: 7rem;
+  }
+}
+.btn-hire-me {
+  background-color: #3730a3;
+  color: white;
+}
+.btn-read-more {
+  background-color: #ffffff;
+  border: 1px solid #3730a3;
+  color: #3730a3;
+}
+
+/* Horizontal Bar Below Buttons */
+hr {
+  color: gray;
+}
+
+/* Part-Time Work */
+.availability {
+  font-size: 0.7rem;
+  color: #6b7280;
+  text-align: center;
+  @media (min-width: 768px) {
+    text-align: left;
+  }
+}
+
+/* Photograph Image */
+.photograph {
+  text-align: center;
+  @media (min-width: 768px) {
+    text-align: left;
+  }  
+}
