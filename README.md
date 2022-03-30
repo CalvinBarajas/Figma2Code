@@ -2,7 +2,7 @@ This project showcases my ability to convert a Figma drawing into code. The tech
 
 * HTML
 * CSS
-* SASS
+* SCSS
 * Bootstrap
 * JavaScript
 
