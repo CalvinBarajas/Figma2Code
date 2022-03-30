@@ -90,10 +90,20 @@ body {
   color: white;
 }
 
+.btn-hire-me:hover {
+  color: #FFF;
+  background-color: #000;
+}
+
 .btn-read-more {
   background-color: #ffffff;
   border: 1px solid #3730a3;
   color: #3730a3;
+}
+
+.btn-read-more:hover {
+  color: #FFF;
+  background-color: #000;
 }
 
 /* Horizontal Bar Below Buttons */

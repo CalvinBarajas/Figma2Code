@@ -63,11 +63,19 @@ body {
 .btn-hire-me {
   background-color: #3730a3;
   color: white;
+  &:hover {
+    color: #FFF;
+    background-color: #000;
+  }
 }
 .btn-read-more {
   background-color: #ffffff;
   border: 1px solid #3730a3;
   color: #3730a3;
+  &:hover {
+    color: #FFF;
+    background-color: #000;
+  }
 }
 
 /* Horizontal Bar Below Buttons */
