@@ -6,3 +6,8 @@ The Stack used in this project is:
 * Bootstrap
 * JavaScript
 
+https://calvinbarajas.github.io/Figma2Code/
+
+https://www.figma.com/file/wWmyMXpxfqqVMZ50DCSFyj/Portfolio-design?node-id=0%3A1
+
+https://www.tailwindawesome.com/resources/ditch/demo
